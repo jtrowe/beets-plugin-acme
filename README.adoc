@@ -1,0 +1,4 @@
+= Acme Beets Plugin
+
+* [Beets_Writing_Plugins] https://beets.readthedocs.io/en/stable/dev/plugins.html[Writing Plugins]
+

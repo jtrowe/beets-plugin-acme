@@ -1,0 +1,32 @@
+= Testing
+
+== Which Library
+
+pytest vs UnitTest::
+    UnitTest was said to have a lot of boilerplate.
+    pytest is just get stuff done.
+
+pytest vs nose vs unittest::
+    slant.co shows people recommending pytest.
+
+
+== pytest
+
+With src in dir `beetsplug`
+and tests in dir `tests`,
+running `pytest` just runs the stuff in `tests`.
+
+No arg means run everything, can run just one file.
+
+[Warning]
+Python was not complaining when I had 2 methods in a test file
+named the same.
+
+[Note]
+--quiet and --verbose seem nearly identical.
+
+== Q and A
+
+Is there some sort of strict mode?:: Does not seem so.
+
+

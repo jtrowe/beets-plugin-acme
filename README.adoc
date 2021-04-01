@@ -1,4 +1,6 @@
 = Acme Beets Plugin
 
-* [Beets_Writing_Plugins] https://beets.readthedocs.io/en/stable/dev/plugins.html[Writing Plugins]
+* [[[Beets_BPM_Plugin]]] https://github.com/adamjakab/BeetsPluginBpmAnalyser[Beets_BPM_Plugin]
+* [[[Beets_Writing_Plugins]]] https://beets.readthedocs.io/en/stable/dev/plugins.html[Writing Plugins]
+
 

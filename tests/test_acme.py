@@ -1,12 +1,11 @@
 
-# content of test_sample.py
-def func(x):
-    return x + 1
+import pytest
 
+import beets
+from beetsplug import *
 
-def test_answer_bad():
-    assert func(3) == 5
+alfa = Foo()
 
-def test_answer():
-    assert func(4) == 5
+def test_application_plugin_list():
+    assert True
 

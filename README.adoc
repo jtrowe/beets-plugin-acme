@@ -1,5 +1,13 @@
 = Acme Beets Plugin
 
+== Testing by Hand
+
+`beet --config config.yml` should list the acme plugin.
+
+`beet --config config.yml acme` should run the acme plugin.
+
+== References
+
 * [[[Beets_BPM_Plugin]]] https://github.com/adamjakab/BeetsPluginBpmAnalyser[Beets_BPM_Plugin]
 * [[[Beets_Writing_Plugins]]] https://beets.readthedocs.io/en/stable/dev/plugins.html[Writing Plugins]
 

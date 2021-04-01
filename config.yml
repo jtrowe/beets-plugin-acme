@@ -1,0 +1,6 @@
+directory: music
+library: music.db
+pluginpath:
+  - beetsplug
+plugins:
+  - acme
